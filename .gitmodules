@@ -1,0 +1,6 @@
+[submodule "submodule1"]
+	path = submodule1
+	url = git@github.com-nbt:kimjaehyeon-nbt/submodule1.git
+[submodule "nameChangedSubmodule"]
+	path = nameChangedSubmodule
+	url = git@github.com-nbt:kimjaehyeon-nbt/submodule2.git
